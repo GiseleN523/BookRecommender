@@ -1,0 +1,277 @@
+The Importance of Being Ernest, by Oscar Wilde [CLASSIC, COMEDY, PLAY, ROMANCE, SATIRE]
+Heidi, by Johanna Spyri [CLASSIC, CHILDRENS, COMING_OF_AGE]
+Little Women, by Louisa May Alcott [CLASSIC, COMING_OF_AGE, YOUNG_ADULT]
+Harry Potter, by J.K. Rowling [CHILDRENS, COMING_OF_AGE, FANTASY, YOUNG_ADULT]
+The Giver, by Lois Lowry [FANTASY, YOUNG_ADULT]
+The Mysterious Benedict Society, by Trenton Lee Stewart [CHILDRENS]
+The Adventures of Tom Sawyer, by Mark Twain [CLASSIC, CHILDRENS, COMING_OF_AGE]
+Little House on the Prairie, by Laura Ingalls Wilder [CHILDRENS, COMING_OF_AGE, HISTORICAL, YOUNG_ADULT]
+Anne of Green Gables, by L.M. Montgomerey [CLASSIC, COMING_OF_AGE, YOUNG_ADULT]
+Alice's Adventures in Wonderland, by Lewis Carroll [CLASSIC, CHILDRENS, FANTASY]
+Pride and Prejudice, by Jane Austen [CLASSIC, HISTORICAL, ROMANCE]
+The City of Ember, by Jeanne DuPrau [CHILDRENS, SCIENCE_FICTION]
+The Adventures of Sherlock Holmes, by Sir Arthur Conan Doyle [CLASSIC, MYSTERY]
+David Copperfield, by Charles Dickens [CLASSIC, COMEDY, COMING_OF_AGE, HISTORICAL]
+In the Shadow of Man, by Jane Goodall [MEMOIR, NONFICTION, SCIENCE]
+Great Expectations, by Charles Dickens [CLASSIC, COMEDY, COMING_OF_AGE, HISTORICAL]
+Emma, by Jane Austen [CLASSIC, PLAY]
+A Doll's House, by Henrik Ibsen [CLASSIC, PLAY]
+The Fault in Our Stars, by John Greene [ROMANCE, YOUNG_ADULT]
+The Raven Boys, by Maggie Stievater [FANTASY, YOUNG_ADULT]
+The Crucible, by Arthur Miller [HISTORICAL, HISTORY, PLAY]
+Animal Farm, by George Orwell [PHILOSOPHY, SATIRE]
+Middlemarch, by George Elliott [CLASSIC, HISTORICAL, ROMANCE]
+No Exit (Huis Clos), by Jean Paul Sartre [PLAY, PHILOSOPHY]
+Percy Jackson, by Rick Riordan [CHILDRENS, FANTASY]
+Fahrenheit 451, by Ray Bradbury [MYSTERY, SCIENCE_FICTION, YOUNG_ADULT]
+My Antonia, by Willa Cather [COMING_OF_AGE, HISTORICAL, MEMOIR]
+A Tale of Two Cities, by Charles Dickens [CLASSIC, HISTORICAL, MYSTERY]
+All the Pretty Horses, by Cormac McCarthy [COMING_OF_AGE, ROMANCE, YOUNG_ADULT]
+The Maze Runner, by James Dashner [SCIENCE_FICTION, YOUNG_ADULT]
+The Eye of Minds, by James Dashner [SCIENCE_FICTION, YOUNG_ADULT]
+Diary of a Wimpy Kid, by Jeff Kinney [COMEDY]
+The False Prince, by Jennifer A. Nielson [FANTASY, YOUNG_ADULT]
+The True Confessions of Charlotte Doyle, by Avi [CHILDRENS, COMING_OF_AGE, HISTORICAL]
+The Hunger Games, by Suzanne Collins [YOUNG_ADULT]
+Romeo and Juliet, by William Shakespeare [CLASSIC, PLAY, ROMANCE]
+A Midsummer Night's Dream, by William Shakespeare [CLASSIC, COMEDY, FANTASY, PLAY]
+The Diary of a Young Girl/The Diary of Anne Frank, by Anne Frank [COMING_OF_AGE, HISTORY, MEMOIR, NONFICTION]
+A Raisin in the Sun, by Lorraine Hansberry [HISTORICAL, PLAY]
+Murder on the Orient Express, by Agatha Christie [MYSTERY]
+To Kill A Mockingbird, by Harper Lee [COMING_OF_AGE, HISTORICAL]
+Educated, by Tara Westover [COMING_OF_AGE, MEMOIR, NONFICTION]
+1984, by George Orwell [MYSTERY, PHILOSOPHY, SCIENCE_FICTION]
+Kindred, by Olivia Butler [MYSTERY, SCIENCE_FICTION, HISTORICAL]
+The Little Prince, by Antoine de Saint-Exupery [CHILDRENS, FANTASY, PHILOSOPHY]
+The Giving Tree, by Shel Silverstein [CHILDRENS]
+The Republic, by Plato [CLASSIC, PHILOSOPHY]
+Macbeth, by Shakespeare [CLASSIC, PLAY, POETRY]
+Darkness at Sethanon, by Raymond E Feist [FANTASY]
+Silverthorn, by Raymond E Feist [FANTASY]
+The Wheel of Time, by Robert Jordan [FANTASY]
+Ready Player One, by Ernest CLine [SCIENCE_FICTION]
+Armada, by Ernest Cline [SCIENCE_FICTION]
+Feed, by Mira Grant [SCIENCE_FICTION]
+Kalevala, by Kirst Makinen [FOLKLORE]
+Unholy Night, by Seth Grahame-Smith [COMEDY, FANTASY]
+
+  0,  0,  2,  2,  1,  3,  2,  2,  2,  2,  2,  3,  2,  1,  1,  0,  1,  0, -1,  1,  0,  3,  1,  1, -3,  2,  0,  2,  1, -2,  0,  2,  0,  2, -2,  2,  2,  3,  1, -1, -2,  1,  0, -1,  3,  3,  2,  3,  1,  1,  1,  1,  1,  1,  1,  1,
+  0,  0, -1,  0, -1,  0,  0,  0,  0,  0, -1,  0,  0, -1, -1,  2, -1, -2,  1, -1,  2,  0, -1, -1,  1,  0,  1,  1,  0,  2,  0,  0,  0, -1,  2, -2, -1, -1, -1,  1,  0, -1,  2,  0,  0,  0,  1,  0,  1,  1,  1,  1,  1,  1,  1,  1,
+  2, -1,  0,  2,  2,  2,  2,  1,  1,  2,  2,  2,  2,  1,  1, -1,  1,  1, -1,  1, -1,  2,  1,  1, -2,  2,  0,  1,  1, -2,  0,  2,  0,  2, -2,  2,  2,  2,  1, -1,  0,  1,  0,  0,  2,  2,  1,  2,  0,  0,  0,  0,  0,  0,  0,  0,
+  2,  0,  2,  0,  4,  3,  3,  2,  2,  5,  2,  3,  4,  1,  1,  0,  1,  1, -1,  1,  0,  4,  1,  2,  0,  4,  0,  2,  2,  1,  1,  5,  1,  2,  0,  0,  2,  1,  1, -1,  0,  1,  2,  1,  3,  3,  2,  3,  1,  1,  1,  1,  1,  1,  1,  1,
+  1, -1,  2,  4,  0,  2,  2,  1,  1,  4,  2,  2,  3,  1,  1, -1,  1,  2, -1,  1, -1,  3,  1,  2,  0,  3,  0,  1,  2,  0,  1,  4,  1,  2, -1,  1,  2,  1,  1, -1,  1,  1,  1,  1,  2,  2,  1,  2,  0,  0,  0,  0,  0,  0,  0,  0,
+  3,  0,  2,  3,  2,  0,  3,  2,  2,  3,  2,  3,  3,  1,  1,  0,  1,  0, -1,  1,  0,  3,  1,  1, -2,  3,  0,  2,  1, -1,  0,  3,  0,  2, -1,  1,  2,  2,  1, -1, -1,  1,  1,  0,  3,  3,  2,  3,  1,  1,  1,  1,  1,  1,  1,  1,
+  2,  0,  2,  3,  2,  3,  0,  2,  2,  3,  2,  3,  4,  1,  1,  0,  1, -1, -1,  1,  0,  2,  1,  0, -2,  4,  0,  2,  0, -1, -1,  3, -1,  2,  0,  0,  2,  1,  1, -1,  0,  1,  2,  1,  3,  3,  2,  3,  1,  1,  1,  1,  1,  1,  1,  1,
+  2,  0,  1,  2,  1,  2,  2,  0,  3,  1,  2,  2,  3,  1,  2,  0,  1,  1, -1,  1,  0,  2,  2,  1, -1,  3, -1,  1,  0,  0,  0,  1,  0,  1,  0,  1,  1,  1,  1, -1, -3,  1,  1,  0,  1,  3,  1,  3,  1,  1,  1,  1,  1,  1,  1,  1,
+  2,  0,  1,  2,  1,  2,  2,  3,  0,  1,  2,  2,  3,  1,  2,  0,  1,  1, -1,  1,  0,  2,  2,  1, -1,  3, -1,  1,  0,  0,  0,  1,  0,  1,  0,  1,  1,  1,  1, -1, -3,  1,  1,  0,  1,  3,  1,  3,  1,  1,  1,  1,  1,  1,  1,  1,
+  2,  0,  2,  5,  4,  3,  3,  1,  1,  0,  1,  3,  3,  1,  0,  0,  1,  0, -1,  1,  0,  4,  0,  2,  0,  3,  0,  2,  2,  1,  1,  6,  1,  2,  0, -1,  2,  1,  1, -1,  1,  1,  1,  1,  4,  2,  2,  2,  1,  1,  1,  1,  1,  1,  1,  1,
+  2, -1,  2,  2,  2,  2,  2,  2,  2,  1,  0,  2,  3,  1,  2, -1,  1,  2, -1,  1, -1,  2,  2,  1, -2,  3,  0,  1,  1, -2,  0,  1,  0,  2, -2,  3,  2,  2,  1, -1, -1,  1,  1,  0,  1,  3,  1,  3,  0,  0,  0,  0,  0,  0,  0,  0,
+  3,  0,  2,  3,  2,  3,  3,  2,  2,  3,  2,  0,  3,  1,  1,  0,  1,  0, -1,  1,  0,  3,  1,  1, -2,  3,  0,  2,  1, -1,  0,  3,  0,  2, -1,  1,  2,  2,  1, -1, -1,  1,  1,  0,  3,  3,  2,  3,  1,  1,  1,  1,  1,  1,  1,  1,
+  2,  0,  2,  4,  3,  3,  4,  3,  3,  3,  3,  3,  0,  1,  2,  0,  1,  1, -1,  1,  0,  3,  2,  1, -1,  5,  0,  2,  1,  0,  0,  3,  0,  2,  0,  1,  2,  1,  1, -1, -1,  1,  3,  1,  2,  4,  2,  4,  1,  1,  1,  1,  1,  1,  1,  1,
+  1, -1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  0,  1, -1,  1,  1, -1,  1, -1,  1,  1,  1, -1,  1, -1,  0,  0, -1,  0,  1,  0,  1, -1,  1,  1,  1,  1, -1, -1,  1, -1,  0,  1,  1,  0,  1,  0,  0,  0,  0,  0,  0,  0,  0,
+  1, -1,  1,  1,  1,  1,  1,  2,  2,  0,  2,  1,  2,  1,  0, -1,  1,  2, -1,  1, -1,  1,  2,  1, -1,  2, -1,  0,  0, -1,  0,  0,  0,  1, -1,  2,  1,  1,  1, -1, -2,  1,  0,  0,  0,  2,  0,  2,  0,  0,  0,  0,  0,  0,  0,  0,
+  0,  2, -1,  0, -1,  0,  0,  0,  0,  0, -1,  0,  0, -1, -1,  0, -1, -2,  1, -1,  2,  0, -1, -1,  1,  0,  1,  1,  0,  2,  0,  0,  0, -1,  2, -2, -1, -1, -1,  1,  0, -1,  2,  0,  0,  0,  1,  0,  1,  1,  1,  1,  1,  1,  1,  1,
+  1, -1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1, -1,  0,  1, -1,  1, -1,  1,  1,  1, -1,  1, -1,  0,  0, -1,  0,  1,  0,  1, -1,  1,  1,  1,  1, -1, -1,  1, -1,  0,  1,  1,  0,  1,  0,  0,  0,  0,  0,  0,  0,  0,
+  0, -2,  1,  1,  2,  0, -1,  1,  1,  0,  2,  0,  1,  1,  2, -2,  1,  0, -1,  1, -2,  1,  2,  2,  0,  1, -1, -1,  1, -1,  1,  0,  1,  1, -2,  3,  1,  1,  1, -1, -1,  1, -1,  0, -1,  1, -1,  1, -1, -1, -1, -1, -1, -1, -1, -1,
+ -1,  1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,  1, -1, -1,  0, -1,  1, -1, -1, -1,  1, -1,  1,  0,  0,  1,  0, -1,  0, -1,  1, -1, -1, -1, -1,  1,  1, -1,  1,  0, -1, -1,  0, -1,  0,  0,  0,  0,  0,  0,  0,  0,
+  1, -1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1, -1,  1,  1, -1,  0, -1,  1,  1,  1, -1,  1, -1,  0,  0, -1,  0,  1,  0,  1, -1,  1,  1,  1,  1, -1, -1,  1, -1,  0,  1,  1,  0,  1,  0,  0,  0,  0,  0,  0,  0,  0,
+  0,  2, -1,  0, -1,  0,  0,  0,  0,  0, -1,  0,  0, -1, -1,  2, -1, -2,  1, -1,  0,  0, -1, -1,  1,  0,  1,  1,  0,  2,  0,  0,  0, -1,  2, -2, -1, -1, -1,  1,  0, -1,  2,  0,  0,  0,  1,  0,  1,  1,  1,  1,  1,  1,  1,  1,
+  3,  0,  2,  4,  3,  3,  2,  2,  2,  4,  2,  3,  3,  1,  1,  0,  1,  1, -1,  1,  0,  0,  1,  2, -1,  3,  0,  2,  2,  0,  1,  4,  1,  2, -1,  1,  2,  2,  1, -1, -1,  1,  1,  0,  3,  3,  2,  3,  1,  1,  1,  1,  1,  1,  1,  1,
+  1, -1,  1,  1,  1,  1,  1,  2,  2,  0,  2,  1,  2,  1,  2, -1,  1,  2, -1,  1, -1,  1,  0,  1, -1,  2, -1,  0,  0, -1,  0,  0,  0,  1, -1,  2,  1,  1,  1, -1, -2,  1,  0,  0,  0,  2,  0,  2,  0,  0,  0,  0,  0,  0,  0,  0,
+  1, -1,  1,  2,  2,  1,  0,  1,  1,  2,  1,  1,  1,  1,  1, -1,  1,  2, -1,  1, -1,  2,  1,  0,  0,  1, -1,  0,  1,  0,  1,  2,  1,  1, -1,  1,  1,  1,  1, -1, -1,  1, -1,  0,  1,  1,  0,  1,  0,  0,  0,  0,  0,  0,  0,  0,
+ -3,  1, -2,  0,  0, -2, -2, -1, -1,  0, -2, -2, -1, -1, -1,  1, -1,  0,  1, -1,  1, -1, -1,  0,  0, -1,  0, -1,  0,  4,  1,  0,  1, -2,  3, -3, -2, -3, -1,  1,  1, -1,  1,  1, -2, -2, -1, -2,  0,  0,  0,  0,  0,  0,  0,  0,
+  2,  0,  2,  4,  3,  3,  4,  3,  3,  3,  3,  3,  5,  1,  2,  0,  1,  1, -1,  1,  0,  3,  2,  1, -1,  0,  0,  2,  1,  0,  0,  3,  0,  2,  0,  1,  2,  1,  1, -1, -1,  1,  3,  1,  2,  4,  2,  4,  1,  1,  1,  1,  1,  1,  1,  1,
+  0,  1,  0,  0,  0,  0,  0, -1, -1,  0,  0,  0,  0, -1, -1,  1, -1, -1,  1, -1,  1,  0, -1, -1,  0,  0,  0,  1,  1,  0,  0,  0,  0,  0,  0,  0,  0,  0, -1,  1,  2, -1,  2,  0,  0,  0,  1,  0,  0,  0,  0,  0,  0,  0,  0,  0,
+  2,  1,  1,  2,  1,  2,  2,  1,  1,  2,  1,  2,  2,  0,  0,  1,  0, -1,  0,  0,  1,  2,  0,  0, -1,  2,  1,  0,  1,  0,  0,  2,  0,  1,  0,  0,  1,  1,  0,  0,  0,  0,  2,  0,  2,  2,  2,  2,  1,  1,  1,  1,  1,  1,  1,  1,
+  1,  0,  1,  2,  2,  1,  0,  0,  0,  2,  1,  1,  1,  0,  0,  0,  0,  1,  0,  0,  0,  2,  0,  1,  0,  1,  1,  1,  0,  0,  1,  2,  1,  1, -1,  1,  1,  1,  0,  0,  1,  0,  1,  0,  1,  1,  1,  1,  0,  0,  0,  0,  0,  0,  0,  0,
+ -2,  2, -2,  1,  0, -1, -1,  0,  0,  1, -2, -1,  0, -1, -1,  2, -1, -1,  1, -1,  2,  0, -1,  0,  4,  0,  0,  0,  0,  0,  1,  1,  1, -2,  4, -4, -2, -3, -1,  1,  0, -1,  2,  1, -1, -1,  0, -1,  1,  1,  1,  1,  1,  1,  1,  1,
+  0,  0,  0,  1,  1,  0, -1,  0,  0,  1,  0,  0,  0,  0,  0,  0,  0,  1,  0,  0,  0,  1,  0,  1,  1,  0,  0,  0,  1,  1,  0,  1,  1,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,
+  2,  0,  2,  5,  4,  3,  3,  1,  1,  6,  1,  3,  3,  1,  0,  0,  1,  0, -1,  1,  0,  4,  0,  2,  0,  3,  0,  2,  2,  1,  1,  0,  1,  2,  0, -1,  2,  1,  1, -1,  1,  1,  1,  1,  4,  2,  2,  2,  1,  1,  1,  1,  1,  1,  1,  1,
+  0,  0,  0,  1,  1,  0, -1,  0,  0,  1,  0,  0,  0,  0,  0,  0,  0,  1,  0,  0,  0,  1,  0,  1,  1,  0,  0,  0,  1,  1,  1,  1,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,
+  2, -1,  2,  2,  2,  2,  2,  1,  1,  2,  2,  2,  2,  1,  1, -1,  1,  1, -1,  1, -1,  2,  1,  1, -2,  2,  0,  1,  1, -2,  0,  2,  0,  0, -2,  2,  2,  2,  1, -1,  0,  1,  0,  0,  2,  2,  1,  2,  0,  0,  0,  0,  0,  0,  0,  0,
+ -2,  2, -2,  0, -1, -1,  0,  0,  0,  0, -2, -1,  0, -1, -1,  2, -1, -2,  1, -1,  2, -1, -1, -1,  3,  0,  0,  0, -1,  4,  0,  0,  0, -2,  0, -4, -2, -3, -1,  1,  0, -1,  2,  1, -1, -1,  0, -1,  1,  1,  1,  1,  1,  1,  1,  1,
+  2, -2,  2,  0,  1,  1,  0,  1,  1, -1,  3,  1,  1,  1,  2, -2,  1,  3, -1,  1, -2,  1,  2,  1, -3,  1,  0,  0,  1, -4,  0, -1,  0,  2, -4,  0,  2,  3,  1, -1, -1,  1, -1, -1,  0,  2,  0,  2, -1, -1, -1, -1, -1, -1, -1, -1,
+  2, -1,  2,  2,  2,  2,  2,  1,  1,  2,  2,  2,  2,  1,  1, -1,  1,  1, -1,  1, -1,  2,  1,  1, -2,  2,  0,  1,  1, -2,  0,  2,  0,  2, -2,  2,  0,  2,  1, -1,  0,  1,  0,  0,  2,  2,  1,  2,  0,  0,  0,  0,  0,  0,  0,  0,
+  3, -1,  2,  1,  1,  2,  1,  1,  1,  1,  2,  2,  1,  1,  1, -1,  1,  1, -1,  1, -1,  2,  1,  1, -3,  1,  0,  1,  1, -3,  0,  1,  0,  2, -3,  3,  2,  0,  1, -1, -1,  1, -1, -1,  2,  2,  1,  2,  0,  0,  0,  0,  0,  0,  0,  0,
+  1, -1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1, -1,  1,  1, -1,  1, -1,  1,  1,  1, -1,  1, -1,  0,  0, -1,  0,  1,  0,  1, -1,  1,  1,  1,  0, -1, -1,  1, -1,  0,  1,  1,  0,  1,  0,  0,  0,  0,  0,  0,  0,  0,
+ -1,  1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,  1, -1, -1,  1, -1,  1, -1, -1, -1,  1, -1,  1,  0,  0,  1,  0, -1,  0, -1,  1, -1, -1, -1, -1,  0,  1, -1,  1,  0, -1, -1,  0, -1,  0,  0,  0,  0,  0,  0,  0,  0,
+ -2,  0,  0,  0,  1, -1,  0, -3, -3,  1, -1, -1, -1, -1, -2,  0, -1, -1,  1, -1,  0, -1, -2, -1,  1, -1,  2,  0,  1,  0,  0,  1,  0,  0,  0, -1,  0, -1, -1,  1,  0, -1,  1,  1,  0, -2,  0, -2, -1, -1, -1, -1, -1, -1, -1, -1,
+  1, -1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1, -1,  1,  1, -1,  1, -1,  1,  1,  1, -1,  1, -1,  0,  0, -1,  0,  1,  0,  1, -1,  1,  1,  1,  1, -1, -1,  0, -1,  0,  1,  1,  0,  1,  0,  0,  0,  0,  0,  0,  0,  0,
+  0,  2,  0,  2,  1,  1,  2,  1,  1,  1,  1,  1,  3, -1,  0,  2, -1, -1,  1, -1,  2,  1,  0, -1,  1,  3,  2,  2,  1,  2,  0,  1,  0,  0,  2, -1,  0, -1, -1,  1,  1, -1,  0,  1,  0,  2,  2,  2,  1,  1,  1,  1,  1,  1,  1,  1,
+ -1,  0,  0,  1,  1,  0,  1,  0,  0,  1,  0,  0,  1,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  1,  1,  0,  0,  0,  1,  0,  1,  0,  0,  1, -1,  0, -1,  0,  0,  1,  0,  1,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,
+  3,  0,  2,  3,  2,  3,  3,  1,  1,  4,  1,  3,  2,  1,  0,  0,  1, -1, -1,  1,  0,  3,  0,  1, -2,  2,  0,  2,  1, -1,  0,  4,  0,  2, -1,  0,  2,  2,  1, -1,  0,  1,  0,  0,  0,  2,  2,  2,  1,  1,  1,  1,  1,  1,  1,  1,
+  3,  0,  2,  3,  2,  3,  3,  3,  3,  2,  3,  3,  4,  1,  2,  0,  1,  1, -1,  1,  0,  3,  2,  1, -2,  4,  0,  2,  1, -1,  0,  2,  0,  2, -1,  2,  2,  2,  1, -1, -2,  1,  2,  0,  2,  0,  2,  4,  1,  1,  1,  1,  1,  1,  1,  1,
+  2,  1,  1,  2,  1,  2,  2,  1,  1,  2,  1,  2,  2,  0,  0,  1,  0, -1,  0,  0,  1,  2,  0,  0, -1,  2,  1,  2,  1,  0,  0,  2,  0,  1,  0,  0,  1,  1,  0,  0,  0,  0,  2,  0,  2,  2,  0,  2,  1,  1,  1,  1,  1,  1,  1,  1,
+  3,  0,  2,  3,  2,  3,  3,  3,  3,  2,  3,  3,  4,  1,  2,  0,  1,  1, -1,  1,  0,  3,  2,  1, -2,  4,  0,  2,  1, -1,  0,  2,  0,  2, -1,  2,  2,  2,  1, -1, -2,  1,  2,  0,  2,  4,  2,  0,  1,  1,  1,  1,  1,  1,  1,  1,
+  1,  1,  0,  1,  0,  1,  1,  1,  1,  1,  0,  1,  1,  0,  0,  1,  0, -1,  0,  0,  1,  1,  0,  0,  0,  1,  0,  1,  0,  1,  0,  1,  0,  0,  1, -1,  0,  0,  0,  0, -1,  0,  1,  0,  1,  1,  1,  1,  0,  1,  1,  1,  1,  1,  1,  1,
+  1,  1,  0,  1,  0,  1,  1,  1,  1,  1,  0,  1,  1,  0,  0,  1,  0, -1,  0,  0,  1,  1,  0,  0,  0,  1,  0,  1,  0,  1,  0,  1,  0,  0,  1, -1,  0,  0,  0,  0, -1,  0,  1,  0,  1,  1,  1,  1,  1,  0,  1,  1,  1,  1,  1,  1,
+  1,  1,  0,  1,  0,  1,  1,  1,  1,  1,  0,  1,  1,  0,  0,  1,  0, -1,  0,  0,  1,  1,  0,  0,  0,  1,  0,  1,  0,  1,  0,  1,  0,  0,  1, -1,  0,  0,  0,  0, -1,  0,  1,  0,  1,  1,  1,  1,  1,  1,  0,  1,  1,  1,  1,  1,
+  1,  1,  0,  1,  0,  1,  1,  1,  1,  1,  0,  1,  1,  0,  0,  1,  0, -1,  0,  0,  1,  1,  0,  0,  0,  1,  0,  1,  0,  1,  0,  1,  0,  0,  1, -1,  0,  0,  0,  0, -1,  0,  1,  0,  1,  1,  1,  1,  1,  1,  1,  0,  1,  1,  1,  1,
+  1,  1,  0,  1,  0,  1,  1,  1,  1,  1,  0,  1,  1,  0,  0,  1,  0, -1,  0,  0,  1,  1,  0,  0,  0,  1,  0,  1,  0,  1,  0,  1,  0,  0,  1, -1,  0,  0,  0,  0, -1,  0,  1,  0,  1,  1,  1,  1,  1,  1,  1,  1,  0,  1,  1,  1,
+  1,  1,  0,  1,  0,  1,  1,  1,  1,  1,  0,  1,  1,  0,  0,  1,  0, -1,  0,  0,  1,  1,  0,  0,  0,  1,  0,  1,  0,  1,  0,  1,  0,  0,  1, -1,  0,  0,  0,  0, -1,  0,  1,  0,  1,  1,  1,  1,  1,  1,  1,  1,  1,  0,  1,  1,
+  1,  1,  0,  1,  0,  1,  1,  1,  1,  1,  0,  1,  1,  0,  0,  1,  0, -1,  0,  0,  1,  1,  0,  0,  0,  1,  0,  1,  0,  1,  0,  1,  0,  0,  1, -1,  0,  0,  0,  0, -1,  0,  1,  0,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  0,  1,
+  1,  1,  0,  1,  0,  1,  1,  1,  1,  1,  0,  1,  1,  0,  0,  1,  0, -1,  0,  0,  1,  1,  0,  0,  0,  1,  0,  1,  0,  1,  0,  1,  0,  0,  1, -1,  0,  0,  0,  0, -1,  0,  1,  0,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  0,
+
+
+Allie: 
+  The Importance of Being Ernest, by Oscar Wilde [CLASSIC, COMEDY, PLAY, ROMANCE, SATIRE], Liked:true
+  Heidi, by Johanna Spyri [CLASSIC, CHILDRENS, COMING_OF_AGE], Liked:false
+  Little Women, by Louisa May Alcott [CLASSIC, COMING_OF_AGE, YOUNG_ADULT], Liked:true
+  Harry Potter, by J.K. Rowling [CHILDRENS, COMING_OF_AGE, FANTASY, YOUNG_ADULT], Liked:true
+  The Giver, by Lois Lowry [FANTASY, YOUNG_ADULT], Liked:true
+  The Mysterious Benedict Society, by Trenton Lee Stewart [CHILDRENS], Liked:true
+  The Adventures of Tom Sawyer, by Mark Twain [CLASSIC, CHILDRENS, COMING_OF_AGE], Liked:true
+  Little House on the Prairie, by Laura Ingalls Wilder [CHILDRENS, COMING_OF_AGE, HISTORICAL, YOUNG_ADULT], Liked:true
+  Anne of Green Gables, by L.M. Montgomerey [CLASSIC, COMING_OF_AGE, YOUNG_ADULT], Liked:true
+  Alice's Adventures in Wonderland, by Lewis Carroll [CLASSIC, CHILDRENS, FANTASY], Liked:true
+  Pride and Prejudice, by Jane Austen [CLASSIC, HISTORICAL, ROMANCE], Liked:true
+  The City of Ember, by Jeanne DuPrau [CHILDRENS, SCIENCE_FICTION], Liked:true
+  The Adventures of Sherlock Holmes, by Sir Arthur Conan Doyle [CLASSIC, MYSTERY], Liked:true
+  David Copperfield, by Charles Dickens [CLASSIC, COMEDY, COMING_OF_AGE, HISTORICAL], Liked:true
+  In the Shadow of Man, by Jane Goodall [MEMOIR, NONFICTION, SCIENCE], Liked:true
+  Great Expectations, by Charles Dickens [CLASSIC, COMEDY, COMING_OF_AGE, HISTORICAL], Liked:false
+  Emma, by Jane Austen [CLASSIC, PLAY], Liked:true
+  A Doll's House, by Henrik Ibsen [CLASSIC, PLAY], Liked:true
+  The Fault in Our Stars, by John Greene [ROMANCE, YOUNG_ADULT], Liked:false
+  The Raven Boys, by Maggie Stievater [FANTASY, YOUNG_ADULT], Liked:true
+  The Crucible, by Arthur Miller [HISTORICAL, HISTORY, PLAY], Liked:false
+  Animal Farm, by George Orwell [PHILOSOPHY, SATIRE], Liked:true
+  Middlemarch, by George Elliott [CLASSIC, HISTORICAL, ROMANCE], Liked:true
+  No Exit (Huis Clos), by Jean Paul Sartre [PLAY, PHILOSOPHY], Liked:true
+  Percy Jackson, by Rick Riordan [CHILDRENS, FANTASY], Liked:false
+  The True Confessions of Charlotte Doyle, by Avi [CHILDRENS, COMING_OF_AGE, HISTORICAL], Liked:true
+  The Hunger Games, by Suzanne Collins [YOUNG_ADULT], Liked:false
+  Romeo and Juliet, by William Shakespeare [CLASSIC, PLAY, ROMANCE], Liked:true
+  A Midsummer Night's Dream, by William Shakespeare [CLASSIC, COMEDY, FANTASY, PLAY], Liked:true
+  The Diary of a Young Girl/The Diary of Anne Frank, by Anne Frank [COMING_OF_AGE, HISTORY, MEMOIR, NONFICTION], Liked:true
+  A Raisin in the Sun, by Lorraine Hansberry [HISTORICAL, PLAY], Liked:true
+  Murder on the Orient Express, by Agatha Christie [MYSTERY], Liked:false
+  To Kill A Mockingbird, by Harper Lee [COMING_OF_AGE, HISTORICAL], Liked:false
+  Educated, by Tara Westover [COMING_OF_AGE, MEMOIR, NONFICTION], Liked:true
+  My Antonia, by Willa Cather [COMING_OF_AGE, HISTORICAL, MEMOIR], Liked:false
+  Diary of a Wimpy Kid, by Jeff Kinney [COMEDY], Liked:true
+  Fahrenheit 451, by Ray Bradbury [MYSTERY, SCIENCE_FICTION, YOUNG_ADULT], Liked:true
+  1984, by George Orwell [MYSTERY, PHILOSOPHY, SCIENCE_FICTION], Liked:false
+  The Maze Runner, by James Dashner [SCIENCE_FICTION, YOUNG_ADULT], Liked:false
+  The Little Prince, by Antoine de Saint-Exupery [CHILDRENS, FANTASY, PHILOSOPHY], Liked:true
+  The Giving Tree, by Shel Silverstein [CHILDRENS], Liked:true
+  Macbeth, by Shakespeare [CLASSIC, PLAY, POETRY], Liked:true
+
+Sal: 
+  Fahrenheit 451, by Ray Bradbury [MYSTERY, SCIENCE_FICTION, YOUNG_ADULT], Liked:true
+  My Antonia, by Willa Cather [COMING_OF_AGE, HISTORICAL, MEMOIR], Liked:true
+  A Tale of Two Cities, by Charles Dickens [CLASSIC, HISTORICAL, MYSTERY], Liked:true
+  All the Pretty Horses, by Cormac McCarthy [COMING_OF_AGE, ROMANCE, YOUNG_ADULT], Liked:true
+  Little Women, by Louisa May Alcott [CLASSIC, COMING_OF_AGE, YOUNG_ADULT], Liked:true
+  The Maze Runner, by James Dashner [SCIENCE_FICTION, YOUNG_ADULT], Liked:false
+  The Diary of a Young Girl/The Diary of Anne Frank, by Anne Frank [COMING_OF_AGE, HISTORY, MEMOIR, NONFICTION], Liked:true
+  The City of Ember, by Jeanne DuPrau [CHILDRENS, SCIENCE_FICTION], Liked:true
+  Alice's Adventures in Wonderland, by Lewis Carroll [CLASSIC, CHILDRENS, FANTASY], Liked:true
+  Pride and Prejudice, by Jane Austen [CLASSIC, HISTORICAL, ROMANCE], Liked:true
+  Percy Jackson, by Rick Riordan [CHILDRENS, FANTASY], Liked:false
+  The Importance of Being Ernest, by Oscar Wilde [CLASSIC, COMEDY, PLAY, ROMANCE, SATIRE], Liked:true
+  The True Confessions of Charlotte Doyle, by Avi [CHILDRENS, COMING_OF_AGE, HISTORICAL], Liked:true
+  A Midsummer Night's Dream, by William Shakespeare [CLASSIC, COMEDY, FANTASY, PLAY], Liked:true
+  The Giver, by Lois Lowry [FANTASY, YOUNG_ADULT], Liked:true
+  To Kill A Mockingbird, by Harper Lee [COMING_OF_AGE, HISTORICAL], Liked:true
+  The Hunger Games, by Suzanne Collins [YOUNG_ADULT], Liked:false
+  The Little Prince, by Antoine de Saint-Exupery [CHILDRENS, FANTASY, PHILOSOPHY], Liked:true
+  Harry Potter, by J.K. Rowling [CHILDRENS, COMING_OF_AGE, FANTASY, YOUNG_ADULT], Liked:true
+  The Adventures of Sherlock Holmes, by Sir Arthur Conan Doyle [CLASSIC, MYSTERY], Liked:true
+  The Adventures of Tom Sawyer, by Mark Twain [CLASSIC, CHILDRENS, COMING_OF_AGE], Liked:true
+  Romeo and Juliet, by William Shakespeare [CLASSIC, PLAY, ROMANCE], Liked:true
+  Diary of a Wimpy Kid, by Jeff Kinney [COMEDY], Liked:true
+  1984, by George Orwell [MYSTERY, PHILOSOPHY, SCIENCE_FICTION], Liked:true
+  The Giving Tree, by Shel Silverstein [CHILDRENS], Liked:true
+  The Mysterious Benedict Society, by Trenton Lee Stewart [CHILDRENS], Liked:true
+  Animal Farm, by George Orwell [PHILOSOPHY, SATIRE], Liked:true
+  The Republic, by Plato [CLASSIC, PHILOSOPHY], Liked:true
+  Macbeth, by Shakespeare [CLASSIC, PLAY, POETRY], Liked:true
+
+Jake: 
+  The Maze Runner, by James Dashner [SCIENCE_FICTION, YOUNG_ADULT], Liked:true
+  The Eye of Minds, by James Dashner [SCIENCE_FICTION, YOUNG_ADULT], Liked:true
+  Diary of a Wimpy Kid, by Jeff Kinney [COMEDY], Liked:true
+  The False Prince, by Jennifer A. Nielson [FANTASY, YOUNG_ADULT], Liked:true
+  Animal Farm, by George Orwell [PHILOSOPHY, SATIRE], Liked:true
+  Alice's Adventures in Wonderland, by Lewis Carroll [CLASSIC, CHILDRENS, FANTASY], Liked:true
+  Harry Potter, by J.K. Rowling [CHILDRENS, COMING_OF_AGE, FANTASY, YOUNG_ADULT], Liked:true
+  No Exit (Huis Clos), by Jean Paul Sartre [PLAY, PHILOSOPHY], Liked:true
+  Percy Jackson, by Rick Riordan [CHILDRENS, FANTASY], Liked:true
+  The Adventures of Tom Sawyer, by Mark Twain [CLASSIC, CHILDRENS, COMING_OF_AGE], Liked:false
+  The Giver, by Lois Lowry [FANTASY, YOUNG_ADULT], Liked:true
+  All the Pretty Horses, by Cormac McCarthy [COMING_OF_AGE, ROMANCE, YOUNG_ADULT], Liked:true
+  A Doll's House, by Henrik Ibsen [CLASSIC, PLAY], Liked:true
+
+Sam: 
+  Alice's Adventures in Wonderland, by Lewis Carroll [CLASSIC, CHILDRENS, FANTASY], Liked:true
+  The Adventures of Sherlock Holmes, by Sir Arthur Conan Doyle [CLASSIC, MYSTERY], Liked:true
+  To Kill A Mockingbird, by Harper Lee [COMING_OF_AGE, HISTORICAL], Liked:true
+  The Adventures of Tom Sawyer, by Mark Twain [CLASSIC, CHILDRENS, COMING_OF_AGE], Liked:true
+  Fahrenheit 451, by Ray Bradbury [MYSTERY, SCIENCE_FICTION, YOUNG_ADULT], Liked:true
+  Harry Potter, by J.K. Rowling [CHILDRENS, COMING_OF_AGE, FANTASY, YOUNG_ADULT], Liked:true
+  Diary of a Wimpy Kid, by Jeff Kinney [COMEDY], Liked:true
+  The Importance of Being Ernest, by Oscar Wilde [CLASSIC, COMEDY, PLAY, ROMANCE, SATIRE], Liked:false
+  The Maze Runner, by James Dashner [SCIENCE_FICTION, YOUNG_ADULT], Liked:true
+  The Hunger Games, by Suzanne Collins [YOUNG_ADULT], Liked:true
+  Romeo and Juliet, by William Shakespeare [CLASSIC, PLAY, ROMANCE], Liked:false
+  The Diary of a Young Girl/The Diary of Anne Frank, by Anne Frank [COMING_OF_AGE, HISTORY, MEMOIR, NONFICTION], Liked:false
+  The Giver, by Lois Lowry [FANTASY, YOUNG_ADULT], Liked:true
+  Percy Jackson, by Rick Riordan [CHILDRENS, FANTASY], Liked:true
+  1984, by George Orwell [MYSTERY, PHILOSOPHY, SCIENCE_FICTION], Liked:true
+  Kindred, by Olivia Butler [MYSTERY, SCIENCE_FICTION, HISTORICAL], Liked:true
+
+Amy: 
+  Alice's Adventures in Wonderland, by Lewis Carroll [CLASSIC, CHILDRENS, FANTASY], Liked:false
+  Anne of Green Gables, by L.M. Montgomerey [CLASSIC, COMING_OF_AGE, YOUNG_ADULT], Liked:true
+  Fahrenheit 451, by Ray Bradbury [MYSTERY, SCIENCE_FICTION, YOUNG_ADULT], Liked:true
+  1984, by George Orwell [MYSTERY, PHILOSOPHY, SCIENCE_FICTION], Liked:true
+  In the Shadow of Man, by Jane Goodall [MEMOIR, NONFICTION, SCIENCE], Liked:true
+  A Doll's House, by Henrik Ibsen [CLASSIC, PLAY], Liked:true
+  The Little Prince, by Antoine de Saint-Exupery [CHILDRENS, FANTASY, PHILOSOPHY], Liked:false
+  The Adventures of Sherlock Holmes, by Sir Arthur Conan Doyle [CLASSIC, MYSTERY], Liked:true
+  Macbeth, by Shakespeare [CLASSIC, PLAY, POETRY], Liked:true
+  Little House on the Prairie, by Laura Ingalls Wilder [CHILDRENS, COMING_OF_AGE, HISTORICAL, YOUNG_ADULT], Liked:true
+  Pride and Prejudice, by Jane Austen [CLASSIC, HISTORICAL, ROMANCE], Liked:true
+  Romeo and Juliet, by William Shakespeare [CLASSIC, PLAY, ROMANCE], Liked:true
+  The Giving Tree, by Shel Silverstein [CHILDRENS], Liked:true
+  Middlemarch, by George Elliott [CLASSIC, HISTORICAL, ROMANCE], Liked:true
+  Diary of a Wimpy Kid, by Jeff Kinney [COMEDY], Liked:false
+  To Kill A Mockingbird, by Harper Lee [COMING_OF_AGE, HISTORICAL], Liked:false
+
+James: 
+  Fahrenheit 451, by Ray Bradbury [MYSTERY, SCIENCE_FICTION, YOUNG_ADULT], Liked:true
+  A Doll's House, by Henrik Ibsen [CLASSIC, PLAY], Liked:false
+  The Little Prince, by Antoine de Saint-Exupery [CHILDRENS, FANTASY, PHILOSOPHY], Liked:true
+  A Tale of Two Cities, by Charles Dickens [CLASSIC, HISTORICAL, MYSTERY], Liked:true
+  To Kill A Mockingbird, by Harper Lee [COMING_OF_AGE, HISTORICAL], Liked:false
+  The Adventures of Tom Sawyer, by Mark Twain [CLASSIC, CHILDRENS, COMING_OF_AGE], Liked:true
+  Alice's Adventures in Wonderland, by Lewis Carroll [CLASSIC, CHILDRENS, FANTASY], Liked:true
+  Little House on the Prairie, by Laura Ingalls Wilder [CHILDRENS, COMING_OF_AGE, HISTORICAL, YOUNG_ADULT], Liked:true
+  1984, by George Orwell [MYSTERY, PHILOSOPHY, SCIENCE_FICTION], Liked:true
+  The Maze Runner, by James Dashner [SCIENCE_FICTION, YOUNG_ADULT], Liked:true
+  The Mysterious Benedict Society, by Trenton Lee Stewart [CHILDRENS], Liked:true
+  The Republic, by Plato [CLASSIC, PHILOSOPHY], Liked:true
+  The Adventures of Sherlock Holmes, by Sir Arthur Conan Doyle [CLASSIC, MYSTERY], Liked:true
+  Great Expectations, by Charles Dickens [CLASSIC, COMEDY, COMING_OF_AGE, HISTORICAL], Liked:true
+  Romeo and Juliet, by William Shakespeare [CLASSIC, PLAY, ROMANCE], Liked:false
+  Darkness at Sethanon, by Raymond E Feist [FANTASY], Liked:true
+  Silverthorn, by Raymond E Feist [FANTASY], Liked:true
+  The Hunger Games, by Suzanne Collins [YOUNG_ADULT], Liked:true
+  Heidi, by Johanna Spyri [CLASSIC, CHILDRENS, COMING_OF_AGE], Liked:true
+  Diary of a Wimpy Kid, by Jeff Kinney [COMEDY], Liked:true
+  The Importance of Being Ernest, by Oscar Wilde [CLASSIC, COMEDY, PLAY, ROMANCE, SATIRE], Liked:true
+  The City of Ember, by Jeanne DuPrau [CHILDRENS, SCIENCE_FICTION], Liked:true
+  Macbeth, by Shakespeare [CLASSIC, PLAY, POETRY], Liked:true
+  Animal Farm, by George Orwell [PHILOSOPHY, SATIRE], Liked:true
+  Anne of Green Gables, by L.M. Montgomerey [CLASSIC, COMING_OF_AGE, YOUNG_ADULT], Liked:true
+  The Giving Tree, by Shel Silverstein [CHILDRENS], Liked:true
+  The Crucible, by Arthur Miller [HISTORICAL, HISTORY, PLAY], Liked:true
+  Harry Potter, by J.K. Rowling [CHILDRENS, COMING_OF_AGE, FANTASY, YOUNG_ADULT], Liked:true
+  The Wheel of Time, by Robert Jordan [FANTASY], Liked:true
+  Ready Player One, by Ernest CLine [SCIENCE_FICTION], Liked:true
+  Armada, by Ernest Cline [SCIENCE_FICTION], Liked:true
+  Feed, by Mira Grant [SCIENCE_FICTION], Liked:true
+  Kalevala, by Kirst Makinen [FOLKLORE], Liked:true
+  Unholy Night, by Seth Grahame-Smith [COMEDY, FANTASY], Liked:true
+
