@@ -1,1 +1,3 @@
 # BookRecommender
+
+This is a project I did in Fall of 2021 for my Data Structures class. The idea behind it is to use a weighted graph to represent the connections between books. Previous users' data is stored, and for each edge between two books in the graph, that edge is incremented each time a user either liked or disliked both books, and is decremented each time a user liked one book and disliked the other. A user can either choose to enter their name and have their data saved, as well as be able to add new books to the graph, or use the program as a guest. Either way, the user can answer questions about which books they like and dislike and then get book recommendations based on which books are highly associated with the ones they liked (have high edge weights).
